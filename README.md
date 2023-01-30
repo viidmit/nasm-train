@@ -3,7 +3,6 @@
 Привет! Этот репозиторий поможет тебе успешно справиться с изучением NASM
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif" width=200"/>
 </div>
 <div id="header" align="center">
   <img src="https://programmerhumor.io/wp-content/uploads/2023/01/programmerhumor-io-programming-memes-8fdd629f6740672.jpg" width=400"/>
